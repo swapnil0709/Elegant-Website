@@ -8,6 +8,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background: #17181a;
+  overflow-x: hidden;
 }
 
 #logo {
@@ -96,6 +97,7 @@ body {
           flex: 1;
   -ms-flex-preferred-size: 25rem;
       flex-basis: 25rem;
+  overflow: hidden;
 }
 
 .hero-img img {
